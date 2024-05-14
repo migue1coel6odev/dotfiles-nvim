@@ -24,3 +24,5 @@ require("lazy").setup({ import = "plugins" }, {
 
 require("custom.keymaps")
 require("custom.options")
+
+vim.o.guifont = "Jetbrains Mono"
