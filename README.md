@@ -23,5 +23,8 @@
 - Move fast beetween files
 - Format on save
 - Run eslint on save
-- Display two files at the same time
+- Display two files at the same time (Ctrl + v on telescope to open on a separate file? )
 - Have integrated terminal
+
+## Yet to try
+- oil.nvim
